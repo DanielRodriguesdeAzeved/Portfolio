@@ -1,0 +1,43 @@
+body {
+    background-color: #333;
+    color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    margin: 6px;
+    padding: 6px;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+h2 {
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+section#contact {
+    background-color: #ffffff;
+    padding: 20px;
+}
+#img{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 70%;
+    position: fixed; 
+    top: 20px; 
+    right: 20px; 
+    width: 200px; 
+    height: auto; 
+}
