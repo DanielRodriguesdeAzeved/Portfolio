@@ -1,3 +1,7 @@
+html, body {
+    height: 100%;
+    margin: 0; /* Remove margens padrão do corpo */
+}
 body{
     background-image: url(imgs/game_wallpapers.png);
 }
