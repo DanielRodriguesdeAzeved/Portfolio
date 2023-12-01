@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+
+<body>
+    <h1>Bem-vindo ao meu Portfólio!</h1>
+    <p>Olá, sou <b>Daniel </b>mas Pode chamar de <b>Dann</b>, um entusiasta de desenvolvimento web e programação 
+        estou muito feliz por Pode transformar ideias em experiências
+        digitais incríveis.</p>
+    <p>Neste espaço, compartilho alguns dos meus projetos e exploramos juntos o mundo fascinante da programação e design
+        web(Ainda estou começando XD).</p>
+    <p>Explore os projetos Na proxima Pagina se Sinta à vontade para entrar em contato caso tenha alguma pergunta ou oportunidade
+        de colaboração!</p>
+
+        
+</body>
+
+</html>
