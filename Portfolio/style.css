@@ -1,6 +1,9 @@
 body {
-    background-color: #333;
-    color: #f5f5f5;
+    background-image: url(imgs/game_wallpapers.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    
     font-family: Arial, sans-serif;
     margin: 6px;
     padding: 6px;
@@ -15,25 +18,21 @@ header {
 }
 
 
-h2 {
-    color: #333;
+h1,h2 {
+    color: rgb(151, 44, 252);
+}
+p{
+    font-size: 18px;
+    color:rgb(174, 100, 243)
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
+#cap{
+    opacity: 0.7;
 }
 
-li {
-    margin-bottom: 10px;
-}
-
-section#contact {
-    background-color: #ffffff;
-    padding: 20px;
-}
 #img{
     border: 2px solid rgb(0, 0, 0);
+    opacity: 0.8;
     border-radius: 70%;
     position: fixed; 
     top: 20px; 
