@@ -1,8 +1,5 @@
 body{
     background-image: url(imgs/game_wallpapers.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
 }
 h1{
     color: rgb(175, 96, 248);
