@@ -4,71 +4,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Apresentação</title>
+    <link rel="stylesheet" href="home.css">
+    <title>Home</title>
 </head>
 
 <body>
-<img id="img" src="imgs/eu_dann.png" alt="Daniel">
-    <h1>Olá, sou Daniel (Dann)</h1>
-    <p>Estudante de Desenvolvimento Web</p>
-    <h2>Sobre Mim</h2>
-    <p>Olá! Sou um entusiasta de desenvolvimento web,<br>
-        estudando e aprimorando minhas habilidades nessa área empolgante. <br>
-        Estou apaixonado por aprender novas tecnologias e aplicar esse conhecimento em projetos práticos.</p>
-    <p>esta Pagina ira ser atuliazada conforme melhoro nos meus estudos</p>
+    <h1>Bem-vindo ao meu Portfólio!</h1>
+    <p>Olá, sou <b>Daniel </b>mas Pode chamar de <b>Dann</b>, um entusiasta de desenvolvimento web e programação 
+        estou muito feliz por Pode transformar ideias em experiências
+        digitais incríveis.</p>
+    <p>Neste espaço, compartilho alguns dos meus projetos e exploramos juntos o mundo fascinante da programação e design
+        web(Ainda estou começando XD).</p>
+    <p>Explore os projetos Na proxima Pagina se Sinta à vontade para entrar em contato caso tenha alguma pergunta ou oportunidade
+        de colaboração!</p>
 
-
-
-    <h2>Habilidades</h2>
-    <ul>
-        <div style="display: inline_block">
-            <p>HTML JavaScript CSS</p>
-            <img align="center" alt="Dann-HTML" height="30" width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-            <img align="center" alt="Dann-Js" height="30" width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-            <img align="center" alt="Dann-CSS" height="30" width="40"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        </div>
-    </ul>
-
-    <h2>
-        Aqui esta um dos meus projetos
-    </h2>
-    <p>
-        Foi feito junto com A sophia e o Mikeias
-    </p>
-    <img id="cap" src="imgs/captura.jpg" alt="img">
-    <p>veja o site por completo no batao abaixo</p>
-
-    <button onclick="git_Biografia()">Site 😁</button>
-    <br>
-
-    <p>Projetos Futuros: </p>
-    <ol>
-        <li>Jogo de terror psicológico</li>
-        <li>Sites de "Vendas" para estudo</li>
-        <li>Alura Projetos</li>
-    </ol>
-    
-    <div>
-        <a href="https://instagram.com/dann.exe_" target="_blank"><img
-                src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-                target="_blank"></a>
-        <a href="dann.contaprofissional@gmail.com"><img
-                src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
-                target="_blank"></a>
-        <a href="https://www.linkedin.com/in/daniel-rodrigues-de-azevedo-0798672a1/)" target="_blank"><img
-                src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-                target="_blank"></a>
-    </div>
-
-    <script>
-        function git_Biografia() {
-            window.open('https://danielrodriguesdeazeved.github.io/Biografia/projeto_NOIX_github/home.html', '_blank');
-        }
-    </script>
+        <a href="index.html">
+            <button type="button">Ir para Outra Página</button>
+        </a>
 </body>
 
 </html>
